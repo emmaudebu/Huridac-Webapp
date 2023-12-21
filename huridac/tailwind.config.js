@@ -5,6 +5,7 @@ export default {
     extend: {
       backgroundImage: {
         Splash: "url('/images/Rectangle.png')",
+        oko: "url('/images/oko.png')",
       },
     },
   },
